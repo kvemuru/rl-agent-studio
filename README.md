@@ -3,7 +3,7 @@
 
 # Otto's Expeditions
 
-A sample Ascend project for the fictional Otto's Expeditions enterprise, demonstrating multi-platform data pipelines across BigQuery, Databricks, DuckDB, MotherDuck, and Snowflake.
+A sample Ascend project for the fictional Otto's Expeditions enterprise, demonstrating multi-platform data pipelines across BigQuery, Databricks, DuckDB, MotherDuck, and Snowflake. More updates will be added soon to complete this repo. 
 
 ## Project Structure
 
